@@ -1,0 +1,4 @@
+tipo int  inteiro
+tipo float flutuante
+tipo bool booleano
+tipo str string
